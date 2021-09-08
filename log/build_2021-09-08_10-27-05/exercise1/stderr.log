@@ -1,0 +1,4 @@
+CMake Error at CMakeLists.txt:9 (install):
+  install TARGETS given target "exercise1-1" which does not exist.
+
+

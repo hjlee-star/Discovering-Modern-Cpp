@@ -1,0 +1,2 @@
+Invoking command in '/home/woowa/modern/Discovering-Modern-Cpp/build/exercise1': /usr/bin/cmake /home/woowa/modern/Discovering-Modern-Cpp/src/exercise1 -DCMAKE_INSTALL_PREFIX=/home/woowa/modern/Discovering-Modern-Cpp/install/exercise1
+Invoked command in '/home/woowa/modern/Discovering-Modern-Cpp/build/exercise1' returned '1': /usr/bin/cmake /home/woowa/modern/Discovering-Modern-Cpp/src/exercise1 -DCMAKE_INSTALL_PREFIX=/home/woowa/modern/Discovering-Modern-Cpp/install/exercise1
