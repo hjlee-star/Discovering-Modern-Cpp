@@ -1,0 +1,1 @@
+/home/woowa/modern/Discovering-Modern-Cpp/install/exercise1_10_1/lib/exercise1_10_1/exercise1_10_1

@@ -1,0 +1,10 @@
+[35m[1mScanning dependencies of target exercise1_10_2[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/exercise1_10_2.dir/exercise1_10_2.cpp.o[0m
+[01m[K/home/woowa/modern/Discovering-Modern-Cpp/src/exercise1_10_2/exercise1_10_2.cpp:[m[K In function ‘[01m[Kint main()[m[K’:
+[01m[K/home/woowa/modern/Discovering-Modern-Cpp/src/exercise1_10_2/exercise1_10_2.cpp:16:15:[m[K [01;35m[Kwarning: [m[KISO C++ forbids converting a string constant to ‘[01m[Kchar*[m[K’ [[01;35m[K-Wwrite-strings[m[K]
+   16 |   char* str = [01;35m[K"bottle"[m[K;     // 하나의 문자를 가리키는 포인터
+      |               [01;35m[K^~~~~~~~[m[K
+[100%] [32m[1mLinking CXX executable exercise1_10_2[0m
+[100%] Built target exercise1_10_2
+-- Install configuration: ""
+-- Installing: /home/woowa/modern/Discovering-Modern-Cpp/install/exercise1_10_2/lib/exercise1_10_2/exercise1_10_2

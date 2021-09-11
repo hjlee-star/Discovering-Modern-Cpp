@@ -1,0 +1,6 @@
+[35m[1mScanning dependencies of target exercise1[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/exercise1.dir/exercise1.cpp.o[0m
+[100%] [32m[1mLinking CXX executable exercise1[0m
+[100%] Built target exercise1
+-- Install configuration: ""
+-- Installing: /home/woowa/modern/Discovering-Modern-Cpp/install/exercise1/lib/exercise1/exercise1

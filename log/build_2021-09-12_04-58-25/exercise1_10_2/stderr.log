@@ -1,0 +1,14 @@
+[01m[K/home/woowa/modern/Discovering-Modern-Cpp/src/exercise1_10_2/exercise1_10_2.cpp:[m[K In function ‘[01m[Kint main()[m[K’:
+[01m[K/home/woowa/modern/Discovering-Modern-Cpp/src/exercise1_10_2/exercise1_10_2.cpp:16:18:[m[K [01;31m[Kerror: [m[Kinvalid conversion from ‘[01m[Kconst char*[m[K’ to ‘[01m[Kchar[m[K’ [[01;31m[K-fpermissive[m[K]
+   16 |   char one_str = [01;31m[K"bottle"[m[K;
+      |                  [01;31m[K^~~~~~~~[m[K
+      |                  [01;31m[K|[m[K
+      |                  [01;31m[Kconst char*[m[K
+[01m[K/home/woowa/modern/Discovering-Modern-Cpp/src/exercise1_10_2/exercise1_10_2.cpp:17:15:[m[K [01;31m[Kerror: [m[Kinvalid conversion from ‘[01m[Kchar[m[K’ to ‘[01m[Kchar*[m[K’ [[01;31m[K-fpermissive[m[K]
+   17 |   char *str = [01;31m[Kone_str[m[K;     // 하나의 문자를 가리키는 포인터
+      |               [01;31m[K^~~~~~~[m[K
+      |               [01;31m[K|[m[K
+      |               [01;31m[Kchar[m[K
+make[2]: *** [CMakeFiles/exercise1_10_2.dir/build.make:63: CMakeFiles/exercise1_10_2.dir/exercise1_10_2.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:76: CMakeFiles/exercise1_10_2.dir/all] Error 2
+make: *** [Makefile:130: all] Error 2

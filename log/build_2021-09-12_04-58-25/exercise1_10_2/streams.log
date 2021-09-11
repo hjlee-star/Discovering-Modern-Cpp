@@ -1,0 +1,18 @@
+[0.019s] Invoking command in '/home/woowa/modern/Discovering-Modern-Cpp/build/exercise1_10_2': /usr/bin/cmake --build /home/woowa/modern/Discovering-Modern-Cpp/build/exercise1_10_2 -- -j12 -l12
+[0.053s] [35m[1mScanning dependencies of target exercise1_10_2[0m
+[0.063s] [ 50%] [32mBuilding CXX object CMakeFiles/exercise1_10_2.dir/exercise1_10_2.cpp.o[0m
+[0.220s] [01m[K/home/woowa/modern/Discovering-Modern-Cpp/src/exercise1_10_2/exercise1_10_2.cpp:[m[K In function ‘[01m[Kint main()[m[K’:
+[0.220s] [01m[K/home/woowa/modern/Discovering-Modern-Cpp/src/exercise1_10_2/exercise1_10_2.cpp:16:18:[m[K [01;31m[Kerror: [m[Kinvalid conversion from ‘[01m[Kconst char*[m[K’ to ‘[01m[Kchar[m[K’ [[01;31m[K-fpermissive[m[K]
+[0.220s]    16 |   char one_str = [01;31m[K"bottle"[m[K;
+[0.220s]       |                  [01;31m[K^~~~~~~~[m[K
+[0.220s]       |                  [01;31m[K|[m[K
+[0.220s]       |                  [01;31m[Kconst char*[m[K
+[0.220s] [01m[K/home/woowa/modern/Discovering-Modern-Cpp/src/exercise1_10_2/exercise1_10_2.cpp:17:15:[m[K [01;31m[Kerror: [m[Kinvalid conversion from ‘[01m[Kchar[m[K’ to ‘[01m[Kchar*[m[K’ [[01;31m[K-fpermissive[m[K]
+[0.220s]    17 |   char *str = [01;31m[Kone_str[m[K;     // 하나의 문자를 가리키는 포인터
+[0.220s]       |               [01;31m[K^~~~~~~[m[K
+[0.220s]       |               [01;31m[K|[m[K
+[0.220s]       |               [01;31m[Kchar[m[K
+[0.245s] make[2]: *** [CMakeFiles/exercise1_10_2.dir/build.make:63: CMakeFiles/exercise1_10_2.dir/exercise1_10_2.cpp.o] Error 1
+[0.245s] make[1]: *** [CMakeFiles/Makefile2:76: CMakeFiles/exercise1_10_2.dir/all] Error 2
+[0.245s] make: *** [Makefile:130: all] Error 2
+[0.246s] Invoked command in '/home/woowa/modern/Discovering-Modern-Cpp/build/exercise1_10_2' returned '2': /usr/bin/cmake --build /home/woowa/modern/Discovering-Modern-Cpp/build/exercise1_10_2 -- -j12 -l12

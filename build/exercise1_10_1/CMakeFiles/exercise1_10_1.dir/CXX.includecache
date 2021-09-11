@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/woowa/modern/Discovering-Modern-Cpp/src/exercise1_10_1/exercise1_10_1.cpp
+iostream
+-
+fstream
+-
+

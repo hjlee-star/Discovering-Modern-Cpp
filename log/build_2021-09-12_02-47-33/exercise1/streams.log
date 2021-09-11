@@ -1,0 +1,10 @@
+[0.014s] Invoking command in '/home/woowa/modern/Discovering-Modern-Cpp/build/exercise1': /usr/bin/cmake --build /home/woowa/modern/Discovering-Modern-Cpp/build/exercise1 -- -j12 -l12
+[0.052s] [35m[1mScanning dependencies of target exercise1[0m
+[0.061s] [ 50%] [32mBuilding CXX object CMakeFiles/exercise1.dir/exercise1.cpp.o[0m
+[0.243s] [100%] [32m[1mLinking CXX executable exercise1[0m
+[0.303s] [100%] Built target exercise1
+[0.313s] Invoked command in '/home/woowa/modern/Discovering-Modern-Cpp/build/exercise1' returned '0': /usr/bin/cmake --build /home/woowa/modern/Discovering-Modern-Cpp/build/exercise1 -- -j12 -l12
+[0.345s] Invoking command in '/home/woowa/modern/Discovering-Modern-Cpp/build/exercise1': /usr/bin/cmake --install /home/woowa/modern/Discovering-Modern-Cpp/build/exercise1
+[0.352s] -- Install configuration: ""
+[0.352s] -- Installing: /home/woowa/modern/Discovering-Modern-Cpp/install/exercise1/lib/exercise1/exercise1
+[0.354s] Invoked command in '/home/woowa/modern/Discovering-Modern-Cpp/build/exercise1' returned '0': /usr/bin/cmake --install /home/woowa/modern/Discovering-Modern-Cpp/build/exercise1
